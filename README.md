@@ -1,2 +1,2 @@
 # django-mango
-Learning the ropes of django,
+Learning the ropes of django.
